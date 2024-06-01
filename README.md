@@ -1,4 +1,4 @@
-![image](https://github.com/Rohithugar/Credit-card-report/assets/151702943/ef78f451-642b-4848-a797-2f13a407f5c3)# Credit-card-report
+# Credit-card-report
 
 Project Objectives
 
